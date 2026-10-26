@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*_resultado_*.xlsx
+*_avance.csv
+build/
+dist/
+*.spec
+instructivo/img/
